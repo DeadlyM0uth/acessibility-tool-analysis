@@ -1,0 +1,11 @@
+--- Benchmark results ---
+Total test cases processed: 856
+True Positives (TP): 185
+False Positives (FP): 1
+False Negatives (FN): 100
+True Negatives (TN): 332
+Precision: 0.9946
+Recall: 0.6491
+F1-Score: 0.7856
+Average Time per URL: 0.6263s
+Total Execution Time: 536.21s

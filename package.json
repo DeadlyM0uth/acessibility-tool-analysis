@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@qualweb/act-rules": "^0.7.5",
+    "@qualweb/best-practices": "^0.7.7",
+    "@qualweb/core": "^0.8.6",
+    "@qualweb/wcag-techniques": "^0.4.2",
+    "@siteimprove/alfa-act": "^0.109.0",
+    "@siteimprove/alfa-dom": "^0.109.0",
+    "@siteimprove/alfa-puppeteer": "^0.81.0",
+    "@siteimprove/alfa-rules": "^0.109.0",
+    "@siteimprove/alfa-web": "^0.109.0",
+    "axe-core": "^4.11.1"
+  }
+}

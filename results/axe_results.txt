@@ -1,0 +1,11 @@
+--- axe-core Benchmark results ---
+Total test cases processed: 714
+True Positives (TP): 167
+False Positives (FP): 3
+False Negatives (FN): 57
+True Negatives (TN): 282
+Precision: 0.9824
+Recall: 0.7455
+F1-Score: 0.8477
+Average Time per URL: 1.3905s
+Total Execution Time: 154.21s
