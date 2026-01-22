@@ -1,0 +1,11 @@
+--- siteimprove/alfa Benchmark results ---
+Total test cases processed: 684
+True Positives (TP): 175
+False Positives (FP): 8
+False Negatives (FN): 39
+True Negatives (TN): 255
+Precision: 0.9563
+Recall: 0.8178
+F1-Score: 0.8816
+Average Time per URL: 1.1025s
+Total Execution Time: 189.05s
